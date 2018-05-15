@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "release.keystore",
+      "storePassword": "Allstar123",
+      "alias": "app_release",
+      "password" : "Allstar123",
+      "keystoreType": ""
+    }
+  }
+}
